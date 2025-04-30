@@ -4,6 +4,7 @@ public class ChildClass extends EmpBean {
 
 	@Override
 	public void disp() {
+		//
 		// TODO Auto-generated method stub
 		setEmpid(123);
 		setEmpname("abc");
